@@ -1,9 +1,9 @@
 # RECIPE_NEW_APP
 ## Table of Contents
-- [Background] (#background)
-- [Install] (#install)
-- [Usage] (#usage)
-      -[Generator] (#generator)
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+	- [Generator](#generator)
 - [Badge](#badge)
 - [Example Readmes](#example-readmes)
 - [Related Efforts](#related-efforts)
